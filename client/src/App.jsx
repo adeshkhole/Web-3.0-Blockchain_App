@@ -9,7 +9,7 @@ const App = () => {
       </div>
       <Services/>
       <Transactions/>
-      <footer/>
+      <Footer/>
     </div>
   )
 }
